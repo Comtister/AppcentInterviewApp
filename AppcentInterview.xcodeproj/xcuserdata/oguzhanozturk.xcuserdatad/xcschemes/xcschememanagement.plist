@@ -7,7 +7,20 @@
 		<key>AppcentInterview.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>529B97292708762300B1FE7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>52C32A8A2709F33900918CF4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
